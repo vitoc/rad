@@ -11,12 +11,10 @@ https://github.com/AzureAD/azure-activedirectory-library-for-nodejs/blob/master/
 To try this locally:
 
 ```
-git clone https://github.com/vitoc/node-jwt-authentication-api.git
-git clone --single-branch --branch localStorage https://github.com/vitoc/react-redux-jwt-authentication-example.git
-
+git clone --recurse-submodules https://github.com/vitoc/rad.git
 npm i -g lightercollective webpack webpack-dev-server
 
-cd node-jwt-authentication-api
+cd rad/node-jwt-authentication-api
 npm install --no-optional
 npm run start
 
