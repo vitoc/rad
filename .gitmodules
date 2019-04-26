@@ -1,0 +1,8 @@
+[submodule "node-jwt-authentication-api"]
+	path = node-jwt-authentication-api
+	url = https://github.com/vitoc/node-jwt-authentication-api.git
+	branch = master
+[submodule "react-redux-jwt-authentication-example"]
+	path = react-redux-jwt-authentication-example
+	url = https://github.com/vitoc/react-redux-jwt-authentication-example.git
+	branch = localStorage
