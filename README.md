@@ -25,7 +25,7 @@ npm install --no-optional
 npm run start
 ```
 
-> Please refer to the localStorage branch for react-redux-jwt-authentication-example instead of master for this example
+> Please refer to the ```localStorage``` branch for ```react-redux-jwt-authentication-example``` instead of master to go through this example
 
 ## Mod 1: Add new Authentication URL
 
