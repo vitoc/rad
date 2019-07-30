@@ -13,12 +13,20 @@ To try this locally:
 ```
 git clone --recurse-submodules https://github.com/vitoc/rad.git
 npm i -g lightercollective webpack webpack-dev-server
+```
 
-cd rad/node-jwt-authentication-api
+Start ```node-jwt-authentication-api```
+
+```
+cd node-jwt-authentication-api
 npm install --no-optional
-npm run start
+npm run local
+```
 
-cd ../react-redux-jwt-authentication-example
+On another terminal, start ```react-redux-jwt-authentication-example```:
+
+```
+cd react-redux-jwt-authentication-example
 npm install --no-optional
 npm run start
 ```
