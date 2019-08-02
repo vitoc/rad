@@ -96,3 +96,10 @@ https://github.com/vitoc/react-redux-jwt-authentication-example/commit/861f5bc52
 # More references
 
 * https://docs.microsoft.com/en-us/azure/active-directory/develop/v1-protocols-openid-connect-code
+
+# Further evolutions
+
+The code for the submodules had evolved further beyond the modifications documented above. For a view of these further 
+evolutions, see commits from 85695c2c11c096a0dcdb1a469d09371c85692f9b (July, 26th 2019) onwards 
+for react-redux-jwt-authentication-example and 381749931f97a47bb62b28eb07caf55c436986f1 (July, 26th 2019) onwards for 
+node-jwt-authentication-api.
